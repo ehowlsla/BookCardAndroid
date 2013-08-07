@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="red">#ff0000</color>
+	<color name="blue">#0000ff</color>
+	<color name="green">#00ff00</color>
+	<color name="black">#ff000000</color>
+	<color name="orange">#ffff6347</color>
+	<color name="whiteGray">#ffcccccc</color>
+	<color name="gray">#ff888888</color>
+	<color name="white">#ffffffff</color>
+	<color name="dkgray">#ff444444</color>
+	<color name="transparent">#00000000</color>
+	<color name="clear">#00000000</color>
+	<color name="darkWhite">#e6e6e6</color>
+	<color name="darkGrayColor">#444444</color>
+	
+	<color name="list_header">#ff657077</color>
+	<color name="list_devide">#ffbec8cf</color>
+	<color name="list_body">#ff8e959b</color>
+	<color name="logdetail_body">#ffcdd1d3</color>
+	
+	<color name="config_row1">#ff242424</color>
+	<color name="config_row1_detail">#ff8e959b</color>
+	<color name="config_row2">#ffde5401</color>
+	<color name="config_row2_detail">#ffa17453</color>
+	
+	<color name="config_header_light">#ff3e5468</color>
+	<color name="config_row1_light">#ff0253a5</color>
+	<color name="config_row1_detail_light">#ff8e959b</color>
+	<color name="config_row2_light">#ff88a9ca</color>
+	<color name="config_orange_light">#ffe96805</color>
+	
+	
+	<color name="config_save_background">#fff2f2f5</color>
+	<color name="config_memo_background">#ffcdd1d3</color>
+	
+	<color name="list_selected_color">#fff1f3af</color> 
+		
+</resources>
